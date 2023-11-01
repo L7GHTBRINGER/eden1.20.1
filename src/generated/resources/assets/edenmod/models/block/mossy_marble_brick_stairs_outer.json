@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "edenmod:block/mossy_marble_bricks",
+    "side": "edenmod:block/mossy_marble_bricks",
+    "top": "edenmod:block/mossy_marble_bricks"
+  }
+}

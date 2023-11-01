@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_terrasteel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "edenmod:raw_terrasteel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "edenmod:terrasteel_ingot_from_smelting_raw_terrasteel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_terrasteel",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "edenmod:terrasteel_ingot_from_smelting_raw_terrasteel"
+    ]
+  },
+  "sends_telemetry_event": false
+}

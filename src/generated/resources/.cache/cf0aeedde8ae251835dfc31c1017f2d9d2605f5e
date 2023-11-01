@@ -1,0 +1,11 @@
+// 1.20.1	2023-10-29T21:28:21.9500785	Tags for minecraft:block mod id edenmod
+201c9d6528bd1e0af07ec7b64a122db77cdd5527 data/forge/tags/blocks/needs_netherite_tool.json
+f3d586c46352a4a5f70ec0ee2f9d335f00def95f data/minecraft/tags/blocks/fences.json
+a32c4fb819a1cea9ddf454e705d0a55081b45e8a data/minecraft/tags/blocks/fence_gates.json
+e937fc14798fd88b37f3e3bbd2a1103824e99771 data/minecraft/tags/blocks/logs_that_burn.json
+a00eeb59e7b88acdf734615fe98a9b382e1985d0 data/minecraft/tags/blocks/mineable/pickaxe.json
+9a86b25bbd47399760fd54acea926ec056478648 data/minecraft/tags/blocks/mineable/shovel.json
+6f9b9b9919e4ffccea36b8f72c0d7ea3b749b44b data/minecraft/tags/blocks/needs_diamond_tool.json
+8d3c7d67ebf6e7707f5838d6be90ca531cfec520 data/minecraft/tags/blocks/needs_iron_tool.json
+5ca1b339b70cb98a9d26a2bdd218b1afaa104d64 data/minecraft/tags/blocks/planks.json
+935829bce8863de5d2718de799fb662b017f5a1d data/minecraft/tags/blocks/walls.json

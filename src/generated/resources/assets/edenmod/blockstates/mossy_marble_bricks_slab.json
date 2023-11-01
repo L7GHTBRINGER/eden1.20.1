@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "edenmod:block/mossy_marble_bricks_slab"
+    },
+    "type=double": {
+      "model": "edenmod:block/mossy_marble_bricks"
+    },
+    "type=top": {
+      "model": "edenmod:block/mossy_marble_bricks_slab_top"
+    }
+  }
+}

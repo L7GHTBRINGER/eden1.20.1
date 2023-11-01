@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "edenmod:nebulyte_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "edenmod:nebulyte_ingot"
+  }
+}

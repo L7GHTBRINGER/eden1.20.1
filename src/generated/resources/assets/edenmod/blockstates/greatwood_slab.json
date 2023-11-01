@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "edenmod:block/greatwood_slab"
+    },
+    "type=double": {
+      "model": "edenmod:block/greatwood_planks"
+    },
+    "type=top": {
+      "model": "edenmod:block/greatwood_slab_top"
+    }
+  }
+}

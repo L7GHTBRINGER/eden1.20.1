@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "edenmod:block/marble_bricks",
+    "side": "edenmod:block/marble_bricks",
+    "top": "edenmod:block/marble_bricks"
+  }
+}

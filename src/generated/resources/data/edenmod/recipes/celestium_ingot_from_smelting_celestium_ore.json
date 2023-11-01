@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "celestium_ingot",
+  "ingredient": {
+    "item": "edenmod:celestium_ore"
+  },
+  "result": "edenmod:celestium_ingot"
+}

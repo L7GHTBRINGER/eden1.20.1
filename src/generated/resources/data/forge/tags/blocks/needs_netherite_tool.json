@@ -1,0 +1,10 @@
+{
+  "values": [
+    "edenmod:infernium_block",
+    "edenmod:astralium_block",
+    "edenmod:astralium_ore",
+    "edenmod:celestium_block",
+    "edenmod:celestium_ore",
+    "edenmod:voidsteel_block"
+  ]
+}

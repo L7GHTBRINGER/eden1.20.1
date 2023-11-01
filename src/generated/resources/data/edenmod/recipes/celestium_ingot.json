@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "edenmod:celestium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "edenmod:celestium_ingot"
+  }
+}

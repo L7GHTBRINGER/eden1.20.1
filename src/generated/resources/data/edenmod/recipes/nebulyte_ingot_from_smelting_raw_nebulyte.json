@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "nebulyte_ingot",
+  "ingredient": {
+    "item": "edenmod:raw_nebulyte"
+  },
+  "result": "edenmod:nebulyte_ingot"
+}

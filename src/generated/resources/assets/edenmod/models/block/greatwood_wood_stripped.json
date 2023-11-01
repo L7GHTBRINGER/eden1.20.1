@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "edenmod:block/greatwood_log",
+    "side": "edenmod:block/greatwood_log_stripped"
+  }
+}

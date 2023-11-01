@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "edenmod:block/marble_bricks_tiles",
+    "side": "edenmod:block/marble_bricks_tiles",
+    "top": "edenmod:block/marble_bricks_tiles"
+  }
+}

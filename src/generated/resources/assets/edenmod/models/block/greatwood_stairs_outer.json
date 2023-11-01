@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "edenmod:block/greatwood_planks",
+    "side": "edenmod:block/greatwood_planks",
+    "top": "edenmod:block/greatwood_planks"
+  }
+}

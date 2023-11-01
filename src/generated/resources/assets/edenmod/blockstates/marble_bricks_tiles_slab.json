@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "edenmod:block/marble_bricks_tiles_slab"
+    },
+    "type=double": {
+      "model": "edenmod:block/marble_bricks_tiles"
+    },
+    "type=top": {
+      "model": "edenmod:block/marble_bricks_tiles_slab_top"
+    }
+  }
+}

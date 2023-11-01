@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "edenmod:block/marble_pressure_plate"
+    },
+    "powered=true": {
+      "model": "edenmod:block/marble_pressure_plate_down"
+    }
+  }
+}

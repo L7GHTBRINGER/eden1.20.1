@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "gloomium_ingot",
+  "ingredient": {
+    "item": "edenmod:deepslate_gloomium_ore"
+  },
+  "result": "edenmod:gloomium_ingot"
+}

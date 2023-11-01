@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_gloomium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "edenmod:raw_gloomium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "edenmod:gloomium_ingot_from_smelting_raw_gloomium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_gloomium",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "edenmod:gloomium_ingot_from_smelting_raw_gloomium"
+    ]
+  },
+  "sends_telemetry_event": false
+}

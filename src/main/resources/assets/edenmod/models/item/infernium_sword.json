@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "edenmod:item/infernium_sword3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "edenmod:item/infernium_sword2d"
+    },
+    "ground": {
+      "parent": "edenmod:item/infernium_sword2d"
+    },
+    "fixed": {
+      "parent": "edenmod:item/infernium_sword2d"
+    }
+  }
+}

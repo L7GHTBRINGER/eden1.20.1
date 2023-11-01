@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_nebulyte_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "edenmod:nebulyte_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "edenmod:nebulyte_ingot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_nebulyte_block",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "edenmod:nebulyte_ingot"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "edenmod:terrasteel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "edenmod:terrasteel_ingot"
+  }
+}

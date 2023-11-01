@@ -1,0 +1,19 @@
+{
+  "values": [
+    "edenmod:astralium_ore",
+    "edenmod:astralium_block",
+    "edenmod:celestium_ore",
+    "edenmod:celestium_block",
+    "edenmod:gloomium_block",
+    "edenmod:gloomium_ore",
+    "edenmod:deepslate_gloomium_ore",
+    "edenmod:terrasteel_block",
+    "edenmod:terrasteel_ore",
+    "edenmod:deepslate_terrasteel_ore",
+    "edenmod:infernium_block",
+    "edenmod:infernium_ore",
+    "edenmod:nebulyte_block",
+    "edenmod:nebulyte_ore",
+    "edenmod:voidsteel_block"
+  ]
+}

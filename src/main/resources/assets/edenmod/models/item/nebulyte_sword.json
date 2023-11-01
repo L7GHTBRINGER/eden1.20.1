@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "edenmod:item/nebulyte_sword3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "edenmod:item/nebulyte_sword2d"
+    },
+    "ground": {
+      "parent": "edenmod:item/nebulyte_sword2d"
+    },
+    "fixed": {
+      "parent": "edenmod:item/nebulyte_sword2d"
+    }
+  }
+}
